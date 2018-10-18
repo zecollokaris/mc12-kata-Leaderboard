@@ -2,9 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="1f8b71e2-9a4d-4afb-bca0-e6c873b4ffec" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/.gradle/4.10.2/fileHashes/fileHashes.lock" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/4.10.2/fileHashes/fileHashes.lock" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/DB.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/DB.java" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/.gradle/" />
     <ignored path="$PROJECT_DIR$/build/" />
@@ -622,14 +620,14 @@
     </todo-panel>
   </component>
   <component name="ToolWindowManager">
-    <frame x="0" y="-4" width="1280" height="804" extended-state="6" />
+    <frame x="0" y="-4" width="1600" height="904" extended-state="6" />
     <layout>
       <window_info id="Designer" order="0" />
       <window_info id="Learn" order="1" />
-      <window_info content_ui="combo" id="Project" order="2" visible="true" weight="0.36995155" />
+      <window_info content_ui="combo" id="Project" order="2" visible="true" weight="0.29396662" />
       <window_info id="Structure" order="3" side_tool="true" weight="0.25" />
       <window_info id="Favorites" order="4" side_tool="true" />
-      <window_info active="true" anchor="bottom" id="Terminal" order="0" visible="true" weight="0.50292397" />
+      <window_info active="true" anchor="bottom" id="Terminal" order="0" visible="true" weight="0.4387755" />
       <window_info anchor="bottom" id="Event Log" order="1" side_tool="true" />
       <window_info anchor="bottom" id="Version Control" order="2" show_stripe_button="false" />
       <window_info anchor="bottom" id="Build" order="3" weight="0.33027524" />
